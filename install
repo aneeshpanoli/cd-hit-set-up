@@ -1,0 +1,10 @@
+download tar.gz
+
+extract
+cd to folder
+make 
+
+if error pops "Compilation error - missing zlib.h"
+
+install libz-dev
+sudo apt-get install libz-dev
